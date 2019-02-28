@@ -1,2 +1,2 @@
-# Fusion360_Python
+# Fusion360 Python
 Fusion 360 Python scripts
