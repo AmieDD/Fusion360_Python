@@ -1,8 +1,7 @@
-# Fusion360 Python
+# Fusion360 Python Scripts
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Fusion 360 Python scripts
 
 For you python scripts to work in Fusion 360 you have to include
 
@@ -11,6 +10,8 @@ For you python scripts to work in Fusion 360 you have to include
 ```python
 import adsk.core, adsk.fusion, adsk.cam, traceback
 ```
+## Access Python and C++ Scripts in Fusion 360
+![](/images/Autodesk%20Fusion%20360%20Scripts.png)
 ## Objects
 Fusion 360 python API is an object oriented API exposed through a set of objects. Most of the objects have a 1-1 correspondence.
 
